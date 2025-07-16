@@ -1,2 +1,2 @@
 # WindTurbinedataset
-This is the dataset used in the defect finding project of wind turbine
+This is the dataset used in the "WindTurbine_fault_detection" project
